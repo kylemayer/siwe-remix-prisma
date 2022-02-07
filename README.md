@@ -1,4 +1,4 @@
-"Sign-in with Ethereum address" - [tutorial](https://github.com/quiknode-labs/sign-on-ethereum) from [@quicknode-labs](https://github.com/quiknode-labs)
+"Sign-in with Ethereum address" - [tutorial](https://youtu.be/UQYf2wJAb-w) from [@quicknode-labs](https://github.com/quiknode-labs)
 
 developed using:
 
